@@ -10,7 +10,7 @@ cd grub-theme-remix-gh-pages
 git config user.name samwhelp
 git config user.email samwhelp@users.noreply.github.com
 
-cd "$OLDPWD"
+cd "${OLDPWD}"
 
 
 
@@ -23,7 +23,7 @@ cd grub-theme-remix-all
 git config user.name samwhelp
 git config user.email samwhelp@users.noreply.github.com
 
-cd "$OLDPWD"
+cd "${OLDPWD}"
 
 
 
@@ -35,7 +35,7 @@ cd grub-theme-remix-source
 git config user.name samwhelp
 git config user.email samwhelp@users.noreply.github.com
 
-cd "$OLDPWD"
+cd "${OLDPWD}"
 
 
 
@@ -47,7 +47,7 @@ cd grub-theme-darkmatter-remix
 git config user.name samwhelp
 git config user.email samwhelp@users.noreply.github.com
 
-cd "$OLDPWD"
+cd "${OLDPWD}"
 
 
 
@@ -59,7 +59,7 @@ cd grub-theme-monterey-remix
 git config user.name samwhelp
 git config user.email samwhelp@users.noreply.github.com
 
-cd "$OLDPWD"
+cd "${OLDPWD}"
 
 
 
@@ -71,4 +71,4 @@ cd grub-theme-deepin-remix
 git config user.name samwhelp
 git config user.email samwhelp@users.noreply.github.com
 
-cd "$OLDPWD"
+cd "${OLDPWD}"
