@@ -1,5 +1,5 @@
 
-# grub-theme-monterey-remix
+# grub-theme-darkmatter-remix
 
 
 ## source
